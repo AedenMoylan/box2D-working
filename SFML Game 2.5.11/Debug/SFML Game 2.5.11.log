@@ -1,0 +1,4 @@
+﻿  Game.cpp
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'box2d.lib,kernel32.lib'
